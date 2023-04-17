@@ -1,0 +1,15 @@
+Question 1:
+This task would have taken us atleast a few hours.
+
+Question 2:
+It's a lot more efficient to use scripts for sorting and orginazing large amounts 
+of unprocessed data . In addition , scripts also can be used for prediction 
+algorithms (the database which we get is friendly for work and the data is easy
+for extraction), tests for code and simulations etc.
+
+Question 3:
+In order to run the script every hour we would add time - based loop which will
+run the algorithm every hour since the initial run  (it requres only one
+manual run and then it runs automatically) . In order to not multiply current 
+players we can add to the algorithm a condition in which only if the player didnt
+appear in the most recent list until now he will be added.
